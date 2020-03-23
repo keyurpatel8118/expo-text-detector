@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "580833008098",
+    "firebase_url": "https://liquid-engine-264104.firebaseio.com",
+    "project_id": "liquid-engine-264104",
+    "storage_bucket": "liquid-engine-264104.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580833008098:android:906d55358fade849cf41bb",
+        "android_client_info": {
+          "package_name": "com.text_detector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580833008098-64k1d70rfvqobjkvo26p65s1vmm935a6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8ZLgUztLgkKexFw82e3IfuHxzJzoRrK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580833008098-64k1d70rfvqobjkvo26p65s1vmm935a6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
